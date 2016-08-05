@@ -24,3 +24,9 @@
 3.[徐亦达机器学习笔记](YiDaXu ML/)
 - [EM算法](YiDaXu ML/EM-review.ipynb)
 - [指数分布族](YiDaXu ML/exponential-family.ipynb)
+
+4.[机器学习笔记](Machine Learning/)
+- [softmax分类器](Machine Learning/softmax-crossentropy-derivative.ipynb)
+
+5.[深度学习笔记](Deep Learning/)
+- [随时间反向传播算法数学推导过程](Deep Learning/BackPropagation Through Time.ipynb)
