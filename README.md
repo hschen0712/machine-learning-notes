@@ -24,6 +24,7 @@
 3.[徐亦达机器学习笔记](YiDaXu ML/)
 - [EM算法](YiDaXu ML/EM-review.ipynb)
 - [指数分布族](YiDaXu ML/exponential-family.ipynb)
+- [指数分布族的变分推断](YiDaXu ML/exponential-family-variational-inference.ipynb)
 
 4.[机器学习笔记](Machine Learning/)
 - [softmax分类器](Machine Learning/softmax-crossentropy-derivative.ipynb)
