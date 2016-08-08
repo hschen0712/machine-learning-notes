@@ -23,6 +23,8 @@
 
 3.[徐亦达机器学习笔记](YiDaXu ML/)
 - [EM算法](YiDaXu ML/EM-review.ipynb)
+- [变分推断](YiDaXu ML/variational-inference.ipynb)
+- [高斯分布的变分推断](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
 - [指数分布族](YiDaXu ML/exponential-family.ipynb)
 - [指数分布族的变分推断](YiDaXu ML/exponential-family-variational-inference.ipynb)
 
