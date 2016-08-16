@@ -17,7 +17,8 @@
 
 2.[PRML读书笔记](PRML/)
 - [第一章 简介](PRML/Chap1-Introduction)
-    - [曲线拟合的三种参数估计方法](PRML/Chap1-Introduction/three-curve-fitting-approaches.ipynb)
+    - [1.1 多项式曲线拟合](PRML/Chap1-Introduction/1.1-polynomial-curve-fitting.ipynb)
+    - [总结-曲线拟合的三种参数估计方法](PRML/Chap1-Introduction/Summary-three-curve-fitting-approaches.ipynb)
 - [第三章 线性回归模型](PRML/Chap3-Linear-Models-For-Regression)
     - [贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/Baysian Linear Regression.ipynb)
 
@@ -30,6 +31,10 @@
 
 4.[机器学习笔记](Machine Learning/)
 - [softmax分类器](Machine Learning/softmax-crossentropy-derivative.ipynb)
+- [用SVD实现岭回归](Machine Learning/svd-ridge-regression.ipynb)
 
 5.[深度学习笔记](Deep Learning/)
+- [keras笔记](Deep Learning/keras-notes)
+  - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
 - [随时间反向传播算法数学推导过程](Deep Learning/BackPropagation Through Time.ipynb)
+- [用numpy实现RNN](Deep Learning/rnn_numpy.ipynb)
