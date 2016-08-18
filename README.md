@@ -18,7 +18,7 @@
 2.[PRML读书笔记](PRML/)
 - [第一章 简介](PRML/Chap1-Introduction)
     - [1.1 多项式曲线拟合](PRML/Chap1-Introduction/1.1-polynomial-curve-fitting.ipynb)
-    - [1.2 概率论回顾](PRML/Chap1-Introduction/1.2-probability-theory.ipynb.ipynb)
+    - [1.2 概率论回顾](PRML/Chap1-Introduction/1.2-probability-theory.ipynb)
     - [总结-曲线拟合的三种参数估计方法](PRML/Chap1-Introduction/Summary-three-curve-fitting-approaches.ipynb)
 - [第三章 线性回归模型](PRML/Chap3-Linear-Models-For-Regression)
     - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
