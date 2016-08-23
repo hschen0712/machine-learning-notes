@@ -37,5 +37,6 @@
 5.[深度学习笔记](Deep Learning/)
 - [keras笔记](Deep Learning/keras-notes)
   - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
-- [随时间反向传播算法数学推导过程](Deep Learning/BackPropagation Through Time.ipynb)
-- [用numpy实现RNN](Deep Learning/rnn_numpy.ipynb)
+- [BP算法矩阵形式推导](Deep Learning/back-propagation-in-matrix-form.ipynb)
+- [随时间反向传播算法数学推导过程](Deep Learning/back-propagation-through-time.ipynb)
+- [用numpy实现RNN](Deep Learning/rnn-numpy.ipynb)
