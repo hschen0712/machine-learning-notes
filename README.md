@@ -24,6 +24,7 @@
     - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
 
 3.[徐亦达机器学习笔记](YiDaXu ML/)
+- [采样算法系列1](YiDaXu ML/sampling-methods-part1.ipynb)
 - [EM算法](YiDaXu ML/EM-review.ipynb)
 - [变分推断](YiDaXu ML/variational-inference.ipynb)
 - [高斯分布的变分推断](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
