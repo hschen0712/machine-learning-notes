@@ -41,3 +41,4 @@
 - [BP算法矩阵形式推导](Deep Learning/back-propagation-in-matrix-form.ipynb)
 - [随时间反向传播算法数学推导过程](Deep Learning/back-propagation-through-time.ipynb)
 - [用numpy实现RNN](Deep Learning/rnn-numpy.ipynb)
+- [随机矩阵的奇异值分析](Deep Learning/singular-value-of-random-matrix.ipynb)
