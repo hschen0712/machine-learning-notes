@@ -5,7 +5,7 @@
 > 邮箱：hschen0712@gmail.com
 
 此笔记主要总结自一些论文、书籍以及公开课，由于本人水平有限，笔记中难免会出现各种错误，欢迎指正。  
-由于Github渲染`.ipynb`文件较慢，可以用nbviewer加快渲染：[点此加速](http://nbviewer.jupyter.org/github/hschen0712/machine_learning_notes/blob/master/README.ipynb)
+由于Github渲染`.ipynb`文件较慢，可以用nbviewer加快渲染：[点此加速](http://nbviewer.jupyter.org/github/hschen0712/machine-learning-notes/blob/master/README.ipynb)
 
 
 ## 目录
