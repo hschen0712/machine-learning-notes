@@ -4,8 +4,8 @@
 
 > 邮箱：hschen0712@gmail.com
 
-此笔记主要总结自一些论文、书籍以及公开课，由于本人才疏学浅，笔记中难免会出现各种错误，欢迎指正。  
-由于Github加载`.ipynb`文件较慢，可以用nbviewer浏览：[点击浏览](http://nbviewer.jupyter.org/github/hschen0712/machine_learning_notes/blob/master/README.ipynb)
+此笔记主要总结自一些论文、书籍以及公开课，由于本人水平有限，笔记中难免会出现各种错误，欢迎指正。  
+由于Github渲染`.ipynb`文件较慢，可以用nbviewer加快渲染：[点此加速](http://nbviewer.jupyter.org/github/hschen0712/machine_learning_notes/blob/master/README.ipynb)
 
 
 ## 目录
@@ -36,6 +36,8 @@
 - [用SVD实现岭回归](Machine Learning/svd-ridge-regression.ipynb)
 
 5.[深度学习笔记](Deep Learning/)
+- [theano笔记](Deep Learning/theano-notes)
+  - [2. theano简单计算](Deep Learning/theano-notes/part2-simple-computations.ipynb)
 - [keras笔记](Deep Learning/keras-notes)
   - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
 - [BP算法矩阵形式推导](Deep Learning/back-propagation-in-matrix-form.ipynb)
