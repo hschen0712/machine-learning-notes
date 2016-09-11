@@ -39,6 +39,7 @@
 - [theano笔记](Deep Learning/theano-notes)
   - [2. theano简单计算](Deep Learning/theano-notes/part2-simple-computations.ipynb)
   - [3. theano共享变量](Deep Learning/theano-notes/part3-shared-variable.ipynb)
+  - [4. theano随机数](Deep Learning/theano-notes/part4-random-number.ipynb)
 - [keras笔记](Deep Learning/keras-notes)
   - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
 - [BP算法矩阵形式推导](Deep Learning/back-propagation-in-matrix-form.ipynb)
