@@ -1,48 +1,51 @@
-# ¼ò½é
+# ç®€ä»‹
 
-> ×÷Õß£ºhschen
+> ä½œè€…ï¼šhschen
 
-> ÓÊÏä£ºhschen0712@gmail.com
+> é‚®ç®±ï¼šhschen0712@gmail.com
 
-´Ë±Ê¼ÇÖ÷Òª×Ü½á×ÔÒ»Ğ©ÂÛÎÄ¡¢Êé¼®ÒÔ¼°¹«¿ª¿Î£¬ÓÉÓÚ±¾ÈËË®Æ½ÓĞÏŞ£¬±Ê¼ÇÖĞÄÑÃâ»á³öÏÖ¸÷ÖÖ´íÎó£¬»¶Ó­Ö¸Õı¡£  
-ÓÉÓÚGithubäÖÈ¾`.ipynb`ÎÄ¼ş½ÏÂı£¬¿ÉÒÔÓÃnbviewer¼Ó¿ìäÖÈ¾£º[µã´Ë¼ÓËÙ](http://nbviewer.jupyter.org/github/hschen0712/machine-learning-notes/blob/master/README.ipynb)
+æ­¤ç¬”è®°ä¸»è¦æ€»ç»“è‡ªä¸€äº›è®ºæ–‡ã€ä¹¦ç±ä»¥åŠå…¬å¼€è¯¾ï¼Œç”±äºæœ¬äººæ°´å¹³æœ‰é™ï¼Œç¬”è®°ä¸­éš¾å…ä¼šå‡ºç°å„ç§é”™è¯¯ï¼Œæ¬¢è¿æŒ‡æ­£ã€‚  
+ç”±äºGithubæ¸²æŸ“`.ipynb`æ–‡ä»¶è¾ƒæ…¢ï¼Œå¯ä»¥ç”¨nbvieweråŠ å¿«æ¸²æŸ“ï¼š[ç‚¹æ­¤åŠ é€Ÿ](http://nbviewer.jupyter.org/github/hschen0712/machine-learning-notes/blob/master/README.ipynb)
 
 
-## Ä¿Â¼
+## ç›®å½•
 
-1.[CS229¿Î³Ì±Ê¼Ç](CS229/)
-- [¹ãÒåÏßĞÔÄ£ĞÍ](CS229/GLM.ipynb)
-- [ÔöÇ¿Ñ§Ï°ÏµÁĞ1](CS229/RL1.ipynb)
-- [ÔöÇ¿Ñ§Ï°ÏµÁĞ2](CS229/RL2.ipynb)
+1.[CS229è¯¾ç¨‹ç¬”è®°](CS229/)
+- [å¹¿ä¹‰çº¿æ€§æ¨¡å‹](CS229/GLM.ipynb)
+- [å¢å¼ºå­¦ä¹ ç³»åˆ—1](CS229/RL1.ipynb)
+- [å¢å¼ºå­¦ä¹ ç³»åˆ—2](CS229/RL2.ipynb)
 
-2.[PRML¶ÁÊé±Ê¼Ç](PRML/)
-- [µÚÒ»ÕÂ ¼ò½é](PRML/Chap1-Introduction)
-    - [1.1 ¶àÏîÊ½ÇúÏßÄâºÏ](PRML/Chap1-Introduction/1.1-polynomial-curve-fitting.ipynb)
-    - [1.2 ¸ÅÂÊÂÛ»Ø¹Ë](PRML/Chap1-Introduction/1.2-probability-theory.ipynb)
-    - [×Ü½á-ÇúÏßÄâºÏµÄÈıÖÖ²ÎÊı¹À¼Æ·½·¨](PRML/Chap1-Introduction/Summary-three-curve-fitting-approaches.ipynb)
-- [µÚÈıÕÂ ÏßĞÔ»Ø¹éÄ£ĞÍ](PRML/Chap3-Linear-Models-For-Regression)
-    - [×Ü½á-±´Ò¶Ë¹ÏßĞÔ»Ø¹é](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
+2.[PRMLè¯»ä¹¦ç¬”è®°](PRML/)
+- [ç¬¬ä¸€ç«  ç®€ä»‹](PRML/Chap1-Introduction)
+    - [1.1 å¤šé¡¹å¼æ›²çº¿æ‹Ÿåˆ](PRML/Chap1-Introduction/1.1-polynomial-curve-fitting.ipynb)
+    - [1.2 æ¦‚ç‡è®ºå›é¡¾](PRML/Chap1-Introduction/1.2-probability-theory.ipynb)
+    - [æ€»ç»“-æ›²çº¿æ‹Ÿåˆçš„ä¸‰ç§å‚æ•°ä¼°è®¡æ–¹æ³•](PRML/Chap1-Introduction/Summary-three-curve-fitting-approaches.ipynb)
+- [ç¬¬ä¸‰ç«  çº¿æ€§å›å½’æ¨¡å‹](PRML/Chap3-Linear-Models-For-Regression)
+    - [æ€»ç»“-è´å¶æ–¯çº¿æ€§å›å½’](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
 
-3.[ĞìÒà´ï»úÆ÷Ñ§Ï°±Ê¼Ç](YiDaXu ML/)
-- [²ÉÑùËã·¨ÏµÁĞ1](YiDaXu ML/sampling-methods-part1.ipynb)
-- [EMËã·¨](YiDaXu ML/EM-review.ipynb)
-- [±ä·ÖÍÆ¶Ï](YiDaXu ML/variational-inference.ipynb)
-- [¸ßË¹·Ö²¼µÄ±ä·ÖÍÆ¶Ï](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
-- [Ö¸Êı·Ö²¼×å](YiDaXu ML/exponential-family.ipynb)
-- [Ö¸Êı·Ö²¼×åµÄ±ä·ÖÍÆ¶Ï](YiDaXu ML/exponential-family-variational-inference.ipynb)
+3.[å¾äº¦è¾¾æœºå™¨å­¦ä¹ ç¬”è®°](YiDaXu ML/)
+- [é‡‡æ ·ç®—æ³•ç³»åˆ—1](YiDaXu ML/sampling-methods-part1.ipynb)
+- [EMç®—æ³•](YiDaXu ML/EM-review.ipynb)
+- [å˜åˆ†æ¨æ–­](YiDaXu ML/variational-inference.ipynb)
+- [é«˜æ–¯åˆ†å¸ƒçš„å˜åˆ†æ¨æ–­](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
+- [æŒ‡æ•°åˆ†å¸ƒæ—](YiDaXu ML/exponential-family.ipynb)
+- [æŒ‡æ•°åˆ†å¸ƒæ—çš„å˜åˆ†æ¨æ–­](YiDaXu ML/exponential-family-variational-inference.ipynb)
 
-4.[»úÆ÷Ñ§Ï°±Ê¼Ç](Machine Learning/)
-- [softmax·ÖÀàÆ÷](Machine Learning/softmax-crossentropy-derivative.ipynb)
-- [ÓÃSVDÊµÏÖÁë»Ø¹é](Machine Learning/svd-ridge-regression.ipynb)
+4.[æœºå™¨å­¦ä¹ ç¬”è®°](Machine Learning/)
+- [softmaxåˆ†ç±»å™¨](Machine Learning/softmax-crossentropy-derivative.ipynb)
+- [ç”¨theanoå®ç°softmaxåˆ†ç±»å™¨](Machine Learning/implement-softmax-in-theano.ipynb)
+- [ç”¨SVDå®ç°å²­å›å½’](Machine Learning/svd-ridge-regression.ipynb)
 
-5.[Éî¶ÈÑ§Ï°±Ê¼Ç](Deep Learning/)
-- [theano±Ê¼Ç](Deep Learning/theano-notes)
-  - [2. theano¼òµ¥¼ÆËã](Deep Learning/theano-notes/part2-simple-computations.ipynb)
-  - [3. theano¹²Ïí±äÁ¿](Deep Learning/theano-notes/part3-shared-variable.ipynb)
-  - [4. theanoËæ»úÊı](Deep Learning/theano-notes/part4-random-number.ipynb)
-- [keras±Ê¼Ç](Deep Learning/keras-notes)
-  - [kerasĞÄµÃ](Deep Learning/keras-notes/keras-tips.ipynb)
-- [BPËã·¨¾ØÕóĞÎÊ½ÍÆµ¼](Deep Learning/back-propagation-in-matrix-form.ipynb)
-- [ËæÊ±¼ä·´Ïò´«²¥Ëã·¨ÊıÑ§ÍÆµ¼¹ı³Ì](Deep Learning/back-propagation-through-time.ipynb)
-- [ÓÃnumpyÊµÏÖRNN](Deep Learning/rnn-numpy.ipynb)
-- [Ëæ»ú¾ØÕóµÄÆæÒìÖµ·ÖÎö](Deep Learning/singular-value-of-random-matrix.ipynb)
+5.[æ·±åº¦å­¦ä¹ ç¬”è®°](Deep Learning/)
+- [theanoç¬”è®°](Deep Learning/theano-notes)
+  - [2. theanoç®€å•è®¡ç®—](Deep Learning/theano-notes/part2-simple-computations.ipynb)
+  - [3. theanoå…±äº«å˜é‡](Deep Learning/theano-notes/part3-shared-variable.ipynb)
+  - [4. theanoéšæœºæ•°](Deep Learning/theano-notes/part4-random-number.ipynb)
+- [kerasç¬”è®°](Deep Learning/keras-notes)
+  - [keraså¿ƒå¾—](Deep Learning/keras-notes/keras-tips.ipynb)
+
+- [windowsä¸‹å®‰è£…caffe](Deep Learning/install-caffe-in-windows.ipynb)
+- [BPç®—æ³•çŸ©é˜µå½¢å¼æ¨å¯¼](Deep Learning/back-propagation-in-matrix-form.ipynb)
+- [éšæ—¶é—´åå‘ä¼ æ’­ç®—æ³•æ•°å­¦æ¨å¯¼è¿‡ç¨‹](Deep Learning/back-propagation-through-time.ipynb)
+- [ç”¨numpyå®ç°RNN](Deep Learning/rnn-numpy.ipynb)
+- [éšæœºçŸ©é˜µçš„å¥‡å¼‚å€¼åˆ†æ](Deep Learning/singular-value-of-random-matrix.ipynb)
