@@ -41,6 +41,9 @@
   - [2. theano简单计算](Deep Learning/theano-notes/part2-simple-computations.ipynb)
   - [3. theano共享变量](Deep Learning/theano-notes/part3-shared-variable.ipynb)
   - [4. theano随机数](Deep Learning/theano-notes/part4-random-number.ipynb)
+  - [6. theano的scan函数](Deep Learning/theano-notes/part6-scan-function.ipynb)
+- [mxnet笔记](Deep Learning/mxnet-notes)
+  - [1. Win10下安装mxnet](Deep Learning/mxnet-notes/1-installation.ipynb)
 - [keras笔记](Deep Learning/keras-notes)
   - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
 
