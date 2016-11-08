@@ -1,8 +1,8 @@
 # 简介
 
 > 作者：hschen
-
-> 邮箱：hschen0712@gmail.com
+QQ：357033150
+邮箱：hschen0712@gmail.com
 
 此笔记主要总结自一些论文、书籍以及公开课，由于本人水平有限，笔记中难免会出现各种错误，欢迎指正。  
 由于Github渲染`.ipynb`文件较慢，可以用nbviewer加快渲染：[点此加速](http://nbviewer.jupyter.org/github/hschen0712/machine-learning-notes/blob/master/README.ipynb)
@@ -20,6 +20,8 @@
     - [1.1 多项式曲线拟合](PRML/Chap1-Introduction/1.1-polynomial-curve-fitting.ipynb)
     - [1.2 概率论回顾](PRML/Chap1-Introduction/1.2-probability-theory.ipynb)
     - [总结-曲线拟合的三种参数估计方法](PRML/Chap1-Introduction/Summary-three-curve-fitting-approaches.ipynb)
+- [第二章 概率分布](PRML/Chap2-Probability-Distributions)
+	- [2.1 二元变量](PRML/Chap2-Probability-Distributions/2.1-binary-variables.ipynb)
 - [第三章 线性回归模型](PRML/Chap3-Linear-Models-For-Regression)
     - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
 
@@ -35,6 +37,7 @@
 - [softmax分类器](Machine Learning/softmax-crossentropy-derivative.ipynb)
 - [用theano实现softmax分类器](Machine Learning/implement-softmax-in-theano.ipynb)
 - [用SVD实现岭回归](Machine Learning/svd-ridge-regression.ipynb)
+- [SVD系列1](Machine Learning/svd1.ipynb)
 
 5.[深度学习笔记](Deep Learning/)
 - [theano笔记](Deep Learning/theano-notes)
@@ -43,7 +46,9 @@
   - [4. theano随机数](Deep Learning/theano-notes/part4-random-number.ipynb)
   - [6. theano的scan函数](Deep Learning/theano-notes/part6-scan-function.ipynb)
 - [mxnet笔记](Deep Learning/mxnet-notes)
-  - [1. Win10下安装mxnet](Deep Learning/mxnet-notes/1-installation.ipynb)
+  - [1. Win10下安装MXNET](Deep Learning/mxnet-notes/1-installation.ipynb)
+  - [2. MXNET符号API](Deep Learning/mxnet-notes/2-mxnet-symbolic.ipynb)
+  - [mshadow表达式模板教程](Deep Learning/mxnet-notes/mshadow-expression-template-tutorial.ipynb)
 - [keras笔记](Deep Learning/keras-notes)
   - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
 
