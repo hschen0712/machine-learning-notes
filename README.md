@@ -1,7 +1,7 @@
 # 简介
 
-> 作者：hschen
-QQ：357033150
+> 作者：hschen  
+QQ：357033150  
 邮箱：hschen0712@gmail.com
 
 此笔记主要总结自一些论文、书籍以及公开课，由于本人水平有限，笔记中难免会出现各种错误，欢迎指正。  
@@ -45,9 +45,11 @@ QQ：357033150
   - [3. theano共享变量](Deep Learning/theano-notes/part3-shared-variable.ipynb)
   - [4. theano随机数](Deep Learning/theano-notes/part4-random-number.ipynb)
   - [6. theano的scan函数](Deep Learning/theano-notes/part6-scan-function.ipynb)
+  - [7. theano的dimshuffle](Deep Learning/theano-notes/part7-dimshuffle.ipynb)
 - [mxnet笔记](Deep Learning/mxnet-notes)
   - [1. Win10下安装MXNET](Deep Learning/mxnet-notes/1-installation.ipynb)
   - [2. MXNET符号API](Deep Learning/mxnet-notes/2-mxnet-symbolic.ipynb)
+  - [mxnet中的运算符](Deep Learning/mxnet-notes/operators-in-mxnet.ipynb)
   - [mshadow表达式模板教程](Deep Learning/mxnet-notes/mshadow-expression-template-tutorial.ipynb)
 - [keras笔记](Deep Learning/keras-notes)
   - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
