@@ -22,6 +22,7 @@ QQ：357033150
     - [总结-曲线拟合的三种参数估计方法](PRML/Chap1-Introduction/Summary-three-curve-fitting-approaches.ipynb)
 - [第二章 概率分布](PRML/Chap2-Probability-Distributions)
 	- [2.1 二元变量](PRML/Chap2-Probability-Distributions/2.1-binary-variables.ipynb)
+	- [2.2 多元变量](PRML/Chap2-Probability-Distributions/2.2-multinomial-variables.ipynb)
 - [第三章 线性回归模型](PRML/Chap3-Linear-Models-For-Regression)
     - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
 
