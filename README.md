@@ -35,6 +35,8 @@ QQ：357033150
 - [指数分布族的变分推断](YiDaXu ML/exponential-family-variational-inference.ipynb)
 
 4.[机器学习笔记](Machine Learning/)
+- [xgboost笔记](Machine Learning/xgboost-notes)
+  - [1. xgboost的安装](Machine Learning/xgboost-notes/xgboost-note1.ipynb)
 - [softmax分类器](Machine Learning/softmax-crossentropy-derivative.ipynb)
 - [用theano实现softmax分类器](Machine Learning/implement-softmax-in-theano.ipynb)
 - [用SVD实现岭回归](Machine Learning/svd-ridge-regression.ipynb)
