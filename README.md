@@ -26,13 +26,17 @@ QQ：357033150
 - [第三章 线性回归模型](PRML/Chap3-Linear-Models-For-Regression)
     - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
 
-3.[徐亦达机器学习笔记](YiDaXu ML/)
-- [采样算法系列1](YiDaXu ML/sampling-methods-part1.ipynb)
-- [EM算法](YiDaXu ML/EM-review.ipynb)
-- [变分推断](YiDaXu ML/variational-inference.ipynb)
-- [高斯分布的变分推断](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
-- [指数分布族](YiDaXu ML/exponential-family.ipynb)
-- [指数分布族的变分推断](YiDaXu ML/exponential-family-variational-inference.ipynb)
+3.公开课笔记  
+- [徐亦达机器学习笔记](YiDaXu ML/)
+	- [采样算法系列1](YiDaXu ML/sampling-methods-part1.ipynb)
+	- [EM算法](YiDaXu ML/EM-review.ipynb)
+	- [变分推断](YiDaXu ML/variational-inference.ipynb)
+	- [高斯分布的变分推断](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
+	- [指数分布族](YiDaXu ML/exponential-family.ipynb)
+	- [指数分布族的变分推断](YiDaXu ML/exponential-family-variational-inference.ipynb)
+
+- [台大机器学习基石笔记](ML-Foundation/)  
+	- [第一讲-学习问题](ML-Foundation/lecture-1.ipynb)
 
 4.[机器学习笔记](Machine Learning/)
 - [xgboost笔记](Machine Learning/xgboost-notes)
