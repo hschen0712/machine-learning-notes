@@ -1,8 +1,8 @@
 # 简介
 
 > 作者：hschen  
-QQ：357033150  
-邮箱：hschen0712@gmail.com
+> QQ：357033150  
+> 邮箱：hschen0712@gmail.com
 
 此笔记主要总结自一些论文、书籍以及公开课，由于本人水平有限，笔记中难免会出现各种错误，欢迎指正。  
 由于Github渲染`.ipynb`文件较慢，可以用nbviewer加快渲染：[点此加速](http://nbviewer.jupyter.org/github/hschen0712/machine-learning-notes/blob/master/README.ipynb)
@@ -12,6 +12,7 @@ QQ：357033150
 
 1.[CS229课程笔记](CS229/)
 - [广义线性模型](CS229/GLM.ipynb)
+- [EM算法](CS229/EM.ipynb)
 - [增强学习系列1](CS229/RL1.ipynb)
 - [增强学习系列2](CS229/RL2.ipynb)
 
@@ -21,22 +22,22 @@ QQ：357033150
     - [1.2 概率论回顾](PRML/Chap1-Introduction/1.2-probability-theory.ipynb)
     - [总结-曲线拟合的三种参数估计方法](PRML/Chap1-Introduction/Summary-three-curve-fitting-approaches.ipynb)
 - [第二章 概率分布](PRML/Chap2-Probability-Distributions)
-	- [2.1 二元变量](PRML/Chap2-Probability-Distributions/2.1-binary-variables.ipynb)
-	- [2.2 多元变量](PRML/Chap2-Probability-Distributions/2.2-multinomial-variables.ipynb)
+ - [2.1 二元变量](PRML/Chap2-Probability-Distributions/2.1-binary-variables.ipynb)
+ - [2.2 多元变量](PRML/Chap2-Probability-Distributions/2.2-multinomial-variables.ipynb)
 - [第三章 线性回归模型](PRML/Chap3-Linear-Models-For-Regression)
     - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
 
 3.公开课笔记  
 - [徐亦达机器学习笔记](YiDaXu ML/)
-	- [采样算法系列1](YiDaXu ML/sampling-methods-part1.ipynb)
-	- [EM算法](YiDaXu ML/EM-review.ipynb)
-	- [变分推断](YiDaXu ML/variational-inference.ipynb)
-	- [高斯分布的变分推断](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
-	- [指数分布族](YiDaXu ML/exponential-family.ipynb)
-	- [指数分布族的变分推断](YiDaXu ML/exponential-family-variational-inference.ipynb)
+ - [采样算法系列1](YiDaXu ML/sampling-methods-part1.ipynb)
+ - [EM算法](YiDaXu ML/EM-review.ipynb)
+ - [变分推断](YiDaXu ML/variational-inference.ipynb)
+ - [高斯分布的变分推断](YiDaXu ML/variational-inference-for-gaussian-distribution.ipynb)
+ - [指数分布族](YiDaXu ML/exponential-family.ipynb)
+ - [指数分布族的变分推断](YiDaXu ML/exponential-family-variational-inference.ipynb)
 
 - [台大机器学习基石笔记](ML-Foundation/)  
-	- [第一讲-学习问题](ML-Foundation/lecture-1.ipynb)
+ - [第一讲-学习问题](ML-Foundation/lecture-1.ipynb)
 
 4.[机器学习笔记](Machine Learning/)
 - [xgboost笔记](Machine Learning/xgboost-notes)
@@ -55,9 +56,14 @@ QQ：357033150
   - [7. theano的dimshuffle](Deep Learning/theano-notes/part7-dimshuffle.ipynb)
 - [mxnet笔记](Deep Learning/mxnet-notes)
   - [1. Win10下安装MXNET](Deep Learning/mxnet-notes/1-installation.ipynb)
+
   - [2. MXNET符号API](Deep Learning/mxnet-notes/2-mxnet-symbolic.ipynb)
+
   - [mxnet中的运算符](Deep Learning/mxnet-notes/operators-in-mxnet.ipynb)
+
   - [mshadow表达式模板教程](Deep Learning/mxnet-notes/mshadow-expression-template-tutorial.ipynb)
+
+    ​
 - [keras笔记](Deep Learning/keras-notes)
   - [keras心得](Deep Learning/keras-notes/keras-tips.ipynb)
 
