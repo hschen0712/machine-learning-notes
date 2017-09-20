@@ -13,7 +13,8 @@
 
 1.公开课/读书笔记  
 - [徐亦达机器学习笔记](YidaXu-ML/)
-  - [采样算法系列1](YidaXu-ML/sampling-methods-part1.ipynb)
+  - [采样算法系列1——基本采样算法](YidaXu-ML/sampling-methods-part1.ipynb)
+  - [采样算法系列2——MCMC](YidaXu-ML/sampling-methods-part2.ipynb)
   - [EM算法](YidaXu-ML/EM-review.ipynb)
   - [变分推断](YidaXu-ML/variational-inference.ipynb)
   - [高斯分布的变分推断](YidaXu-ML/variational-inference-for-gaussian-distribution.ipynb)
@@ -48,7 +49,8 @@
 - [SVD系列1](Machine-Learning/svd1.ipynb)
 
 3.[NLP笔记](NLP/)
-- [LDA介绍](NLP/latent-dirichlet-allocation-1.ipynb)
+- [LDA系列1——LDA简介](NLP/latent-dirichlet-allocation-1.ipynb)
+- [LDA系列2——Gibbs采样](NLP/latent-dirichlet-allocation-2.ipynb)
 - [朴素贝叶斯](NLP/naive-bayes.ipynb)
 
 
