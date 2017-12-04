@@ -38,7 +38,8 @@
       - [2.1 二元变量](PRML/Chap2-Probability-Distributions/2.1-binary-variables.ipynb)
       - [2.2 多元变量](PRML/Chap2-Probability-Distributions/2.2-multinomial-variables.ipynb)
    - [第三章 线性回归模型](PRML/Chap3-Linear-Models-For-Regression)
-   - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
+      - [3.1 线性基函数模型](PRML/Chap3-Linear-Models-For-Regression/3.1-linear-basis-function-models.ipynb)
+      - [总结-贝叶斯线性回归](PRML/Chap3-Linear-Models-For-Regression/summary-baysian-linear-regression.ipynb)
 
 2.[机器学习笔记](Machine-Learning/)
 - [xgboost笔记](Machine-Learning/xgboost-notes)
